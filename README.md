@@ -1,11 +1,4 @@
-
-
-        .__  __         .__              __                .__   
-__  _  _|__|/  |_  ____ |  |__ ___  ____/  |_  ____   ____ |  |  
-\ \/ \/ /  \   __\/ ___\|  |  \\  \/  /\   __\/  _ \ /  _ \|  |  
- \     /|  ||  | \  \___|   Y  \>    <  |  | (  <_> |  <_> )  |__
-  \/\_/ |__||__|  \___  >___|  /__/\_ \ |__|  \____/ \____/|____/ V.1.1
-                      \/     \/      \/ http://th3w1tch.wordpress.com/
+WITCHXTOOL - Hacking Toolkit
 
 These tools consist of
 1. Port Scan   	        4. Dork SQLI Scanner	    7. Yahoo Password Checker 
